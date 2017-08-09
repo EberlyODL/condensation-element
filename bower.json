@@ -5,7 +5,7 @@
     "polymer": "Polymer/polymer#^1.9.0",
     "lrn-icons": "https://github.com/LRNWebComponents/lrn-icons.git#^1.0.12",
     "lrndesign-animationctrl": "LRNWebComponents/lrndesign-animationctrl#^0.0.2",
-    "greensock-cdn": "EberlyODl/greensock#^0.0.1"
+    "greensock-cdn": "EberlyODl/greensock#^0.0.1",
     "open-sans": "https://github.com/bterp-web/open-sans.git"
   },
   "devDependencies": {
